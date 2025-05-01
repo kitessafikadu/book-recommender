@@ -21,10 +21,8 @@ A Book Recommender LLM uses AI to suggest books based on user queries. It levera
 
    ```bash
    git clone https://github.com/kitessafikadu/Book-Recommender-LLM.git
-   cd book-recommender-llm
+   cd Book-Recommender-LLM
    ```
-
-````
 
 2. Set up the environment:
 
@@ -34,4 +32,3 @@ A Book Recommender LLM uses AI to suggest books based on user queries. It levera
    source .venv/bin/activate  # macOS/Linux
    pip install -r requirements.txt
    ```
-````
