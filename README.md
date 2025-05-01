@@ -5,7 +5,7 @@ A Book Recommender LLM uses AI to suggest books based on user queries. It levera
 ## Features
 
 - Personalized book recommendations based on user queries.
-- Embedding-based search using LangChain, OpenAI Embeddings, and Chroma.
+- Embedding-based search using LangChain, HuggingFaceEmbeddings, and Chroma.
 - Scalable and efficient document retrieval.
 
 ## Tech Stack
