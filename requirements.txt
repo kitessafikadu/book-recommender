@@ -3,3 +3,6 @@ langchain-chroma
 chromadb
 langchain-openai
 sentence-transformers
+langchain-huggingface
+huggingface_hub[hf_xet]
+ipywidgets
