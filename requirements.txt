@@ -1,3 +1,12 @@
+pandas
+kagglehub
+seaborn
+matplotlib
+python-dotenv
+gradio
+notebook
+ipywidgets
+transformers
 lanchain-community
 langchain-chroma
 chromadb
@@ -5,4 +14,3 @@ langchain-openai
 sentence-transformers
 langchain-huggingface
 huggingface_hub[hf_xet]
-ipywidgets
