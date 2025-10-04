@@ -20,8 +20,8 @@ A Book Recommender LLM uses AI to suggest books based on user queries. It levera
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/kitessafikadu/book-recommender-llm.git
-   cd book-recommender-llm
+   git clone https://github.com/kitessafikadu/book-recommender.git
+   cd book-recommender
    ```
 
 2. Set up the environment:
